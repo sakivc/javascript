@@ -1,7 +1,7 @@
 function setup() {
-  let sketchCanvas = createCanvas(width,height);
+	createCanvas(100,100);
 }
 
 function draw() {
-  background(51);
+	background(51);
 }
